@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @efemuratrendeci
-- 👀 I’m interested in mobile development
 - 📫 You can reach me via email
 
 <!---
